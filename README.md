@@ -6,11 +6,11 @@
   <h4 align="center"><b>A Powerful, Smart And Simple Group Manager <br> ... Written with  Pyrogram and Telethon...</b></h4>  
 
 <p align="center">
-    <a href="https://github.com/dihanofficial/sophiabot/stargazers"><img src="https://img.shields.io/github/stars/dihanofficial/SophiaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/dihanofficial/sophiabot/stargazers"><img src="https://img.shields.io/github/stars/soulxmusicbot/SophiaBot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/dihanofficial/Sophiabot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/dihanofficial/sophiabot"> <img src="https://img.shields.io/github/repo-size/dihanofficial/sophiabot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/soulxmusicbot/SophiaBot"> <img src="https://img.shields.io/github/repo-size/dihanofficial/sophiabot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/dihanofficial/sophiabot/commits/dihanofficial"> <img src="https://img.shields.io/github/last-commit/dihanofficial/sophiabot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/dihanofficial/sophia/issues"> <img src="https://img.shields.io/github/issues/dihanofficial/sophiabot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/dihanofficial/sophiabot/network/members"> <img src="https://img.shields.io/github/forks/dihanofficial/sophiabot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
@@ -31,7 +31,7 @@ Complete guide on deploying @SophiaSLBot's clone on Heroku.
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Yyw2TfwQTSg)
 
 ### Deploy To Heroku</h4>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Sophiabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soulxmusicbot/Sophiabot)
 
 
 
